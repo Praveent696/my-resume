@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.13)  15 NOV 2024 18:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.13)  15 NOV 2024 20:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -571,21 +571,21 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
 (Font)              scaled to size 10.0pt on input line 169.
  (c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 262.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 306.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 262.
+(Font)              scaled to size 10.0pt on input line 306.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 262.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 306.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 262.
+(Font)              scaled to size 9.0pt on input line 306.
  [1
 
-{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}] [2]
-Underfull \hbox (badness 2065) in paragraph at lines 406--406
-[]\T1/SourceSansPro-TLF/regular/n/10 Developed an emer-gency SOS ap-pli-ca-tion tai-lored for in-field work-ers, fa-cil-i-tat-ing
+{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}]
+Underfull \hbox (badness 2828) in paragraph at lines 424--424
+[]\T1/SourceSansPro-TLF/bold/n/10 Coursework: \T1/SourceSansPro-TLF/regular/n/10 Soft-ware Foun-da-tions, Com-puter Ar-chi-tec-ture, Al-go-rithms, AI,
  []
 
-[3] 
+[2] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Parveen_Kumar_CV.aux)
  ***********
@@ -594,18 +594,18 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14864 strings out of 476161
- 270755 string characters out of 5790867
- 1951978 words of memory out of 5000000
+ 14863 strings out of 476161
+ 270749 string characters out of 5790867
+ 1949978 words of memory out of 5000000
  36670 multiletter control sequences out of 15000+600000
  644542 words of font info for 59 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,10n,79p,612b,524s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,494b,523s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on Parveen_Kumar_CV.pdf (3 pages, 398198 bytes).
+Output written on Parveen_Kumar_CV.pdf (2 pages, 394382 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
