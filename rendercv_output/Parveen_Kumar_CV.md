@@ -10,7 +10,7 @@
 
 # Summary
 
-Experienced software engineer with 8+ years of expertise in .NET Framework, Microservices, Azure, React, and Redux. Demonstrated success in architecting scalable solutions, optimizing performance, and delivering robust software products. Seeking to leverage my extensive experience and technical proficiency in a role that offers opportunities for growth and leadership within a dynamic team environment. Passionate about driving innovation, fostering collaboration, and delivering exceptional results that exceed expectations.
+Experienced full-stack software engineer with 9 years of expertise in .NET Framework, Microservices, Azure, React, and Redux. Demonstrated success in architectures scalable solutions, optimizing performance, and delivering robust software products. Seeking to leverage my extensive experience and technical proficiency in a role that offers opportunities for growth and leadership within a dynamic team environment. Passionate about driving innovation, fostering collaboration, and delivering exceptional results that exceed expectations.
 
 # Technologies
 
@@ -54,7 +54,7 @@ Experienced software engineer with 8+ years of expertise in .NET Framework, Micr
 ## Financial Application (S&P Global)
 
 - 2022 to present - The stock research app's strategic development focus and user-centric approach have established it as a trusted resource for investors, driving organizational growth and success within the competitive financial technology sector.
-- Contributed to features in the stock research app, enabling real-time market data visualization, personalized watchlists, and advanced technical analysis tools, empowering users with actionable insights for informed investment decisions.
+- Contributed to features in the stock research app, enabling real-time market data visualization, personalized watchlist's, and advanced technical analysis tools, empowering users with actionable insights for informed investment decisions.
 - Implemented robust data integration mechanisms to seamlessly fetch and process market data from diverse sources, ensuring accuracy and reliability. Integrated APIs from leading financial data providers to enrich the app's data offerings and expand its coverage of global markets.
 - Prioritized security and compliance considerations throughout the development process, implementing robust security measures to safeguard user data and ensure compliance with industry regulations such as GDPR and financial data protection standards.
 - Leveraged responsive development to ensure broad compatibility across desktop, mobile, and various screen sizes, allowing users to access the app seamlessly across their preferred devices.
