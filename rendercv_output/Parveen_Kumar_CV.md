@@ -3,7 +3,6 @@
 - Phone: +91 90158 48590
 - Email: [praveent696@gmail.com](mailto:praveent696@gmail.com)
 - Location: Delhi
-- Website: [praveent696.github.iomy-portfolio](https://praveent696.github.io/my-portfolio)
 - LinkedIn: [iamparveen](https://linkedin.com/in/iamparveen)
 - GitHub: [praveent696](https://github.com/praveent696)
 

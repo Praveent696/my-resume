@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.13)  15 NOV 2024 20:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.13)  15 NOV 2024 20:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -553,35 +553,35 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 9.0pt on input line 137.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 137.
  (c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 143.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 141.
  (c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <9> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 143.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 141.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 152.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 150.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 152.
+(Font)              scaled to size 14.4pt on input line 150.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 152.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 150.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 152.
+(Font)              scaled to size 14.4pt on input line 150.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 169.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 167.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 169.
+(Font)              scaled to size 10.0pt on input line 167.
  (c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 306.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 304.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 306.
+(Font)              scaled to size 10.0pt on input line 304.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 306.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 304.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 306.
+(Font)              scaled to size 9.0pt on input line 304.
  [1
 
 {c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}]
-Underfull \hbox (badness 2828) in paragraph at lines 424--424
+Underfull \hbox (badness 2828) in paragraph at lines 422--422
 []\T1/SourceSansPro-TLF/bold/n/10 Coursework: \T1/SourceSansPro-TLF/regular/n/10 Soft-ware Foun-da-tions, Com-puter Ar-chi-tec-ture, Al-go-rithms, AI,
  []
 
@@ -602,10 +602,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  75i,11n,79p,494b,523s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><c:/Users/Neo/AppData/Local/Programs/Python/Python311/Lib/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on Parveen_Kumar_CV.pdf (2 pages, 394382 bytes).
+Output written on Parveen_Kumar_CV.pdf (2 pages, 393970 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
