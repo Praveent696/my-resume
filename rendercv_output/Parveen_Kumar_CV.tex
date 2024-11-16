@@ -3,10 +3,10 @@
 % Packages:
 \usepackage[
         ignoreheadfoot, % set margins without considering header and footer
-        top=2 cm, % seperation between body and page edge from the top
-        bottom=2 cm, % seperation between body and page edge from the bottom
-        left=2 cm, % seperation between body and page edge from the left
-        right=2 cm, % seperation between body and page edge from the right
+        top=2cm, % seperation between body and page edge from the top
+        bottom=2cm, % seperation between body and page edge from the bottom
+        left=2cm, % seperation between body and page edge from the left
+        right=2cm, % seperation between body and page edge from the right
         footskip=1.0 cm, % seperation between body and footer
         % showframe % for debugging 
     ]{geometry} % for adjusting page geometry
@@ -60,10 +60,10 @@
         0pt
     }{
         % top space:
-        0.3 cm
+        0.3cm
     }{
         % bottom space:
-        0.2 cm
+        0.2cm
     } % section title spacing
 
 \newcolumntype{L}[1]{
@@ -79,11 +79,11 @@
 \newenvironment{highlights}{
         \begin{itemize}[
                 topsep=0pt,
-                parsep=0.10 cm,
+                parsep=0.10cm,
                 partopsep=0pt,
                 itemsep=0pt,
                 after=\vspace{-1\baselineskip},
-                leftmargin=0.4 cm + 3pt
+                leftmargin=0.4cm + 3pt
             ]
     }{
         \end{itemize}
@@ -98,7 +98,7 @@
 \newcommand{\placelastupdatedtext}{% \placetextbox{<horizontal pos>}{<vertical pos>}{<stuff>}
   \AddToShipoutPictureFG*{% Add <stuff> to current page foreground
     \put(
-        \LenToUnit{\paperwidth-2 cm-0.2 cm+0.05cm},
+        \LenToUnit{\paperwidth-2cm-0.2cm+0.05cm},
         \LenToUnit{\paperheight-1.0 cm}
     ){\vtop{{\null}\makebox[0pt][c]{
         \small\color{gray}\textit{Last updated in November 2024}\hspace{\widthof{Last updated in November 2024}}
@@ -126,33 +126,33 @@
 \begin{document}
     \placelastupdatedtext
     \begin{header}
-        \fontsize{30 pt}{30 pt}
+        \fontsize{30pt}{30pt}
         \textbf{Parveen Kumar}
 
-        \vspace{0.3 cm}
+        \vspace{0.3cm}
 
         \normalsize
         \mbox{\hrefWithoutArrow{tel:+919015848590}{{\footnotesize\faPhone*}\hspace*{0.13cm}+91 90158 48590}}
-        \hspace*{0.5 cm}
+        \hspace*{0.5cm}
         \mbox{\hrefWithoutArrow{mailto:praveent696@gmail.com}{{\small\faEnvelope[regular]}\hspace*{0.13cm}praveent696@gmail.com}}
-        \hspace*{0.5 cm}
+        \hspace*{0.5cm}
         \mbox{{\small\faMapMarker*}\hspace*{0.13cm}Delhi}
-        \hspace*{0.5 cm}
+        \hspace*{0.5cm}
         \mbox{\hrefWithoutArrow{https://praveent696.github.io/my-portfolio}{{\small\faLink}\hspace*{0.13cm}praveent696.github.iomy-portfolio}}
-        \hspace*{0.5 cm}
+        \hspace*{0.5cm}
         \mbox{\hrefWithoutArrow{https://linkedin.com/in/iamparveen}{{\small\faLinkedinIn}\hspace*{0.13cm}iamparveen}}
-        \hspace*{0.5 cm}
+        \hspace*{0.5cm}
         \mbox{\hrefWithoutArrow{https://github.com/praveent696}{{\small\faGithub}\hspace*{0.13cm}praveent696}}
-        \hspace*{0.5 cm}
+        \hspace*{0.5cm}
     \end{header}
 
-    \vspace{0.3 cm}
+    \vspace{0.3cm}
 
 
     \section{Summary}
 
-        \begin{changemargin}{0.2 cm}{0.2 cm}
-        Experienced full-stack software engineer with 9 years of expertise in .NET Framework, Microservices, Azure, React, and Redux. Demonstrated success in architectures scalable solutions, optimizing performance, and delivering robust software products. Seeking to leverage my extensive experience and technical proficiency in a role that offers opportunities for growth and leadership within a dynamic team environment. Passionate about driving innovation, fostering collaboration, and delivering exceptional results that exceed expectations.
+        \begin{changemargin}{0.2cm}{0.2cm}
+        Full-stack software engineer with 9 years of experience in .NET Framework, Microservices, Azure, React, and Redux. Proven expertise in designing scalable architectures, optimizing performance, and delivering high-quality software solutions. Skilled in driving innovation, fostering collaboration, and exceeding project expectations. Seeking opportunities to apply technical proficiency and leadership in a growth-oriented and dynamic team environment.
         \end{changemargin}
 
 
@@ -162,18 +162,18 @@
     
     \section{Technologies}
 
-        \begingroup\leftskip=0.2 cm
-        \advance\csname @rightskip\endcsname 0.2 cm
-        \advance\rightskip 0.2 cm
+        \begingroup\leftskip=0.2cm
+        \advance\csname @rightskip\endcsname 0.2cm
+        \advance\rightskip 0.2cm
 
         \textbf{Languages/Frameworks:} C\#, SQL, JavaScript, EJS, React, Redux, .NET MVC, .NET Core, Microservices, Azure \par\endgroup
 
-        \vspace{0.2 cm}
-        \begingroup\leftskip=0.2 cm
-        \advance\csname @rightskip\endcsname 0.2 cm
-        \advance\rightskip 0.2 cm
+        \vspace{0.2cm}
+        \begingroup\leftskip=0.2cm
+        \advance\csname @rightskip\endcsname 0.2cm
+        \advance\rightskip 0.2cm
 
-        \textbf{IDE/Software:} Visual Studio, Microsoft SQL Server, Visual Studio Code, JIRA, GIT, Azure Devops \par\endgroup
+        \textbf{IDE/Software:} Visual Studio, Microsoft SQL Server, Visual Studio Code, JIRA, GIT, Azure DevOps \par\endgroup
 
 
     
@@ -182,19 +182,19 @@
         \begin{tabularx}{
             \textwidth-0.4 cm-0.13cm
         }{
-            K{0.2 cm}
-            R{4.1 cm}
+            K{0.2cm}
+            R{4.1cm}
         }
             \textbf{S\&P Global Inc.}, Software Engineer
 
-            \vspace{0.10 cm}
+            \vspace{0.10cm}
 
             \begin{highlights}
-                \item Demonstrated proficiency in identifying and comprehending business requirements, leading to the development of robust solutions to achieve organizational objectives.
+                \item Demonstrated proficiency in identifying and understanding business requirements, leading to the development of robust solutions to achieve organizational objectives.
                 \item Utilized Test-Driven Development (TDD) methodology to craft reusable React components, ensuring code reliability and maintainability.
                 \item Enhanced module performance by up to 50\% through strategic code refactoring, adhering to industry best practices and coding standards.
-                \item Played a pivotal role in analyzing the existing system, identifying technical debts, and executing solutions to enhance system efficiency and stability.
-                \item Implemented optimizations in React applications by meticulously analyzing code flows, addressing issues such as redundant network calls and unnecessary component re-renders.
+                \item Played a pivotal role in analyzing the existing system, identifying technical debt, and executing solutions to enhance system efficiency and stability.
+                \item Implemented optimizations in React applications by analyzing code flows, addressing issues such as redundant network calls and unnecessary component re-renders.
             \end{highlights}
             &
             Noida, India
@@ -204,24 +204,24 @@
             2 years 9 months
         \end{tabularx}
 
-        \vspace{0.2 cm}
+        \vspace{0.2cm}
         \begin{tabularx}{
             \textwidth-0.4 cm-0.13cm
         }{
-            K{0.2 cm}
-            R{4.1 cm}
+            K{0.2cm}
+            R{4.1cm}
         }
-            \textbf{Global Logic India Pvt. Ltd.}, Senior Software Engineer
+            \textbf{GlobalLogic India Pvt. Ltd.}, Senior Software Engineer
 
-            \vspace{0.10 cm}
+            \vspace{0.10cm}
 
             \begin{highlights}
-                \item Possessing a robust knowledge base and extensive practical experience in .NET Core and Microservice-based development, with a track record of delivering impactful solutions.
-                \item Demonstrated proficiency in developing .NET Core, Microservices, and Cloud-based applications, leveraging NoSQL databases and implementing Event-Driven programming using Azure Message Bus and Kafka.
-                \item Adept at translating requirements into functional applications that align closely with business objectives, ensuring the delivery of solutions that meet organizational needs effectively.
-                \item Collaborating seamlessly with peers to architect optimal solutions using the .NET framework and Microsoft technology stack, fostering a cohesive team environment focused on delivering excellence.
-                \item Skilled in refactoring existing code structures to enhance efficiency and performance, contributing to the continuous improvement of project deliverables.
-                \item Proficient in understanding technical project priorities, identifying implementation dependencies, and effectively managing risks and issues to ensure successful project outcomes.
+                \item Extensive practical experience in .NET Core and microservice-based development, with a track record of delivering impactful solutions.
+                \item Developed .NET Core, Microservices, and cloud-based applications, leveraging NoSQL databases and implementing event-driven programming using Azure Message Bus and Kafka.
+                \item Translated requirements into functional applications aligning closely with business objectives, ensuring effective delivery of solutions.
+                \item Collaborated seamlessly with peers to architect optimal solutions using the .NET framework and Microsoft technology stack.
+                \item Refactored existing code structures to enhance efficiency and performance, contributing to project improvements.
+                \item Identified technical project priorities, implementation dependencies, and managed risks to ensure successful outcomes.
             \end{highlights}
             &
             Noida, India
@@ -231,23 +231,23 @@
             2 years 1 month
         \end{tabularx}
 
-        \vspace{0.2 cm}
+        \vspace{0.2cm}
         \begin{tabularx}{
             \textwidth-0.4 cm-0.13cm
         }{
-            K{0.2 cm}
-            R{4.1 cm}
+            K{0.2cm}
+            R{4.1cm}
         }
             \textbf{Inficare Software Technologies Pvt. Ltd.}, Software Developer
 
-            \vspace{0.10 cm}
+            \vspace{0.10cm}
 
             \begin{highlights}
-                \item Design, develop, and maintain full-stack internet-scale web applications on AWS, heavy focus on RESTful APIs.
-                \item Combining data from multiple data sources.
-                \item Fluency with .NET Framework, MSSQL and MySql.
-                \item Gathered and defined customer requirements to develop clear specifications for creating well-organized project plans.
-                \item Revised, modularized, and updated old code bases to modern development standards, reducing operating costs by 30\%.
+                \item Designed, developed, and maintained full-stack internet-scale web applications on AWS with a heavy focus on RESTful APIs.
+                \item Combined data from multiple data sources to enhance functionality.
+                \item Expert in .NET Framework, MSSQL, and MySQL.
+                \item Gathered and defined customer requirements to develop clear specifications for well-organized project plans.
+                \item Revised, modularized, and updated old code bases to modern standards, reducing operating costs by 30\%.
             \end{highlights}
             &
             Noida, India
@@ -264,20 +264,20 @@
         \begin{tabularx}{
             \textwidth-0.4 cm-0.13cm
         }{
-            K{0.2 cm}
-            R{4.1 cm}
+            K{0.2cm}
+            R{4.1cm}
         }
             \textbf{Financial Application (S\&P Global)}
 
-            \vspace{0.10 cm}
+            \vspace{0.10cm}
 
             \begin{highlights}
-                \item The stock research app's strategic development focus and user-centric approach have established it as a trusted resource for investors, driving organizational growth and success within the competitive financial technology sector.
-                \item Contributed to features in the stock research app, enabling real-time market data visualization, personalized watchlist's, and advanced technical analysis tools, empowering users with actionable insights for informed investment decisions.
-                \item Implemented robust data integration mechanisms to seamlessly fetch and process market data from diverse sources, ensuring accuracy and reliability. Integrated APIs from leading financial data providers to enrich the app's data offerings and expand its coverage of global markets.
-                \item Prioritized security and compliance considerations throughout the development process, implementing robust security measures to safeguard user data and ensure compliance with industry regulations such as GDPR and financial data protection standards.
-                \item Leveraged responsive development to ensure broad compatibility across desktop, mobile, and various screen sizes, allowing users to access the app seamlessly across their preferred devices.
-                \item Tech Stack .NET, Javascript, React, Redux, HTML5, JavaScript, CSS, Storybook, Web Components, E2E testing and Unit testing framework.
+                \item Contributed to the development of a stock research app with real-time market data visualization, personalized watchlists, and advanced technical analysis tools.
+                \item Implemented robust data integration mechanisms to fetch and process market data from diverse sources, ensuring accuracy and reliability.
+                \item Integrated APIs from leading financial data providers to expand global market coverage.
+                \item Prioritized security and compliance considerations, adhering to regulations like GDPR and financial data protection standards.
+                \item Ensured broad compatibility through responsive design, allowing seamless access across devices.
+                \item Tech Stack: .NET, JavaScript, React, Redux, HTML5, CSS, Storybook, Web Components, E2E testing, and Unit testing frameworks.
             \end{highlights}
             &
             
@@ -286,22 +286,22 @@
         \end{tabularx}
 
 
-        \vspace{0.2 cm}
+        \vspace{0.2cm}
         \begin{tabularx}{
             \textwidth-0.4 cm-0.13cm
         }{
-            K{0.2 cm}
-            R{4.1 cm}
+            K{0.2cm}
+            R{4.1cm}
         }
             \textbf{JHA Wires (GlobalLogic)}
 
-            \vspace{0.10 cm}
+            \vspace{0.10cm}
 
             \begin{highlights}
-                \item Worked on a multi-tenant banking project that handles debit/credit transactions worldwide.
+                \item Developed a multi-tenant banking project handling global debit/credit transactions.
                 \item Used microservice architecture for domain and orchestrator services.
-                \item Optimized API performance by refactoring existing code without impacting any existing functionality.
-                \item Tech Stack Net Core, C\#, Web API, Mongo Db Atlas, Micro Services, Service Bus, JWT Token, XUnit, Kafka, Consul, Azure(Storage, Functions, Feature flag, App Insight, Key Vault, App Configuration).
+                \item Optimized API performance by refactoring code without impacting functionality.
+                \item Tech Stack: .NET Core, C\#, Web API, MongoDB Atlas, Microservices, Service Bus, JWT Token, XUnit, Kafka, Consul, Azure (Storage, Functions, Feature Flag, App Insights, Key Vault, App Configuration).
             \end{highlights}
             &
             
@@ -310,23 +310,23 @@
         \end{tabularx}
 
 
-        \vspace{0.2 cm}
+        \vspace{0.2cm}
         \begin{tabularx}{
             \textwidth-0.4 cm-0.13cm
         }{
-            K{0.2 cm}
-            R{4.1 cm}
+            K{0.2cm}
+            R{4.1cm}
         }
             \textbf{Microsoft Dynamics CRM - Field Service Inspection (GlobalLogic)}
 
-            \vspace{0.10 cm}
+            \vspace{0.10cm}
 
             \begin{highlights}
-                \item Responsible for overseeing the company's requirements, development, testing, and deployment of Microsoft CRM projects.
-                \item Customized Field service module to integrate inspection into it as per business process.
-                \item Used MS Dynamics CRM customization tool to customize system components such as forms, views, etc.
-                \item Designed custom action to optimize the system.
-                \item Tech Stack C\#, Javascript, React, .NET Framework.
+                \item Oversaw requirements, development, testing, and deployment of Microsoft CRM projects.
+                \item Customized the Field Service module to integrate inspection processes.
+                \item Used MS Dynamics CRM customization tools to enhance system components.
+                \item Designed custom actions to optimize system performance.
+                \item Tech Stack: C\#, JavaScript, React, .NET Framework.
             \end{highlights}
             &
             
@@ -335,22 +335,21 @@
         \end{tabularx}
 
 
-        \vspace{0.2 cm}
+        \vspace{0.2cm}
         \begin{tabularx}{
             \textwidth-0.4 cm-0.13cm
         }{
-            K{0.2 cm}
-            R{4.1 cm}
+            K{0.2cm}
+            R{4.1cm}
         }
-            \textbf{CRx - For Automated Healthcare Facility Compliance (Inficare)}
+            \textbf{CRx - Healthcare Facility Compliance (Inficare)}
 
-            \vspace{0.10 cm}
+            \vspace{0.10cm}
 
             \begin{highlights}
-                \item CRx, which stands for Compliance Prescription, is a healthcare facility compliance software carefully designed to keep hospitals, rehabilitation centers, and outpatient facilities compliant with The Joint Commission's regulations.
-                \item CRx keeps your facility compliant with all the standards and EPs of the Joint Commission.
-                \item CRx integrated with multiple work order systems to tackle any compliance deficiency.
-                \item Tech Stack C\#, WebAPI, .NET Framework, Javascript, MSSQL Server, AWS.
+                \item Developed CRx, a healthcare facility compliance software aligned with The Joint Commission's regulations.
+                \item Integrated multiple work order systems to address compliance deficiencies.
+                \item Tech Stack: C\#, Web API, .NET Framework, JavaScript, MSSQL Server, AWS.
             \end{highlights}
             &
             
@@ -359,22 +358,21 @@
         \end{tabularx}
 
 
-        \vspace{0.2 cm}
+        \vspace{0.2cm}
         \begin{tabularx}{
             \textwidth-0.4 cm-0.13cm
         }{
-            K{0.2 cm}
-            R{4.1 cm}
+            K{0.2cm}
+            R{4.1cm}
         }
-            \textbf{eMembership Card - Digital Membership App (Inficare)}
+            \textbf{eMembership Card (Inficare)}
 
-            \vspace{0.10 cm}
+            \vspace{0.10cm}
 
             \begin{highlights}
-                \item Developed a comprehensive digital membership platform capable of generating membership cards directly onto members' mobile devices from various sources such as Raiser's Edge NXT, Raiser's Edge, Altru, and others.
-                \item Implemented automated email, push, and web push notifications for diverse membership events, including automatic expiration reminders, ensuring seamless member engagement and retention.
-                \item Designed and integrated multiple modules to enhance user engagement, including gift passes, Apple Wallet integration for digital cards, automated membership information updates, and streamlined access for digital members, optimizing user experience and satisfaction.
-                \item Tech Stack C\#, WebAPI, .NET Framework, Javascript, MySQL, AWS.
+                \item Created a digital membership platform with features like mobile membership cards, Apple Wallet integration, and automated notifications.
+                \item Implemented features for seamless member engagement and retention.
+                \item Tech Stack: C\#, Web API, .NET Framework, JavaScript, MySQL, AWS.
             \end{highlights}
             &
             
@@ -383,21 +381,21 @@
         \end{tabularx}
 
 
-        \vspace{0.2 cm}
+        \vspace{0.2cm}
         \begin{tabularx}{
             \textwidth-0.4 cm-0.13cm
         }{
-            K{0.2 cm}
-            R{4.1 cm}
+            K{0.2cm}
+            R{4.1cm}
         }
-            \textbf{Clue - An SOS app for field service workers (Inficare)}
+            \textbf{Clue - SOS App (Inficare)}
 
-            \vspace{0.10 cm}
+            \vspace{0.10cm}
 
             \begin{highlights}
-                \item Developed an emergency SOS application tailored for infield workers, facilitating prompt alerting of their employer during critical situations in the field.
-                \item Engineered a solution compatible with Samsung Watch Tizen OS, seamlessly integrating with a .NET backend and administrative panel to ensure swift and effective communication in emergency scenarios.
-                \item Tech Stack C\#, WebAPI, .NET Framework, Javascript, MySQL.
+                \item Developed an SOS application for field workers, integrating with Samsung Watch Tizen OS and a .NET backend.
+                \item Facilitated prompt communication during emergencies.
+                \item Tech Stack: C\#, Web API, .NET Framework, JavaScript, MySQL.
             \end{highlights}
             &
             
@@ -414,14 +412,14 @@
             \textwidth-0.4 cm-0.13cm
         }{
             L{0.85cm}
-            K{0.2 cm}
-            R{4.1 cm}
+            K{0.2cm}
+            R{4.1cm}
         }
             \textbf{}
             &
-            \textbf{GGSIPU University, Delhi}, B.Tech.(Computer Science \& Engineering)
+            \textbf{GGSIPU University, Delhi}, B.Tech. (Computer Science \& Engineering)
 
-            \vspace{0.10 cm}
+            \vspace{0.10cm}
 
             \begin{highlights}
                 \item GPA: 8.1/10.0
@@ -437,18 +435,18 @@
     
     \section{Additional Experience And Awards}
 
-        \begingroup\leftskip=0.2 cm
-        \advance\csname @rightskip\endcsname 0.2 cm
-        \advance\rightskip 0.2 cm
+        \begingroup\leftskip=0.2cm
+        \advance\csname @rightskip\endcsname 0.2cm
+        \advance\rightskip 0.2cm
 
-        \textbf{Spotlight award at S\&P Global:} October and November 2022 \par\endgroup
+        \textbf{Spotlight Award at S\&P Global:} October and November 2022 \par\endgroup
 
-        \vspace{0.2 cm}
-        \begingroup\leftskip=0.2 cm
-        \advance\csname @rightskip\endcsname 0.2 cm
-        \advance\rightskip 0.2 cm
+        \vspace{0.2cm}
+        \begingroup\leftskip=0.2cm
+        \advance\csname @rightskip\endcsname 0.2cm
+        \advance\rightskip 0.2cm
 
-        \textbf{Spotlight award at GlobalLogic:} November 2021 \par\endgroup
+        \textbf{Spotlight Award at GlobalLogic:} November 2021 \par\endgroup
 
 
     
